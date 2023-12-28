@@ -1,12 +1,3 @@
-/__pycache__
-__pycache__/**
-/.idea
-
-/logs
-
-/venv
-
-*.logs
+/__pycache__/**
 *.log
-
-.env
+*.pyc
